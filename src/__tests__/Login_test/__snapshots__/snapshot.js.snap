@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders loginpage unchanged 1`] = `
+<div>
+  <div>
+    <h1>
+      Login...
+    </h1>
+    <form>
+      <input
+        type="email"
+      />
+      <input
+        type="password"
+      />
+      <button>
+        Entrar
+      </button>
+    </form>
+  </div>
+</div>
+`;
